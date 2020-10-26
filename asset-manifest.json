@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/catzones/static/css/main.25737572.chunk.css",
+    "main.js": "/catzones/static/js/main.33b020bd.chunk.js",
+    "main.js.map": "/catzones/static/js/main.33b020bd.chunk.js.map",
+    "runtime-main.js": "/catzones/static/js/runtime-main.a70ae1a4.js",
+    "runtime-main.js.map": "/catzones/static/js/runtime-main.a70ae1a4.js.map",
+    "static/js/2.a33c51da.chunk.js": "/catzones/static/js/2.a33c51da.chunk.js",
+    "static/js/2.a33c51da.chunk.js.map": "/catzones/static/js/2.a33c51da.chunk.js.map",
+    "static/js/3.5643f05f.chunk.js": "/catzones/static/js/3.5643f05f.chunk.js",
+    "static/js/3.5643f05f.chunk.js.map": "/catzones/static/js/3.5643f05f.chunk.js.map",
+    "index.html": "/catzones/index.html",
+    "static/css/main.25737572.chunk.css.map": "/catzones/static/css/main.25737572.chunk.css.map",
+    "static/js/2.a33c51da.chunk.js.LICENSE.txt": "/catzones/static/js/2.a33c51da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a70ae1a4.js",
+    "static/js/2.a33c51da.chunk.js",
+    "static/css/main.25737572.chunk.css",
+    "static/js/main.33b020bd.chunk.js"
+  ]
+}
